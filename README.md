@@ -6,4 +6,4 @@ I tried to predict which projects were successfully completed and which factors 
 
 I used KNN algorithm.
 
-Dataset is from: https://www.kaggle.com/nilanml/eda-of-kickstarter-projects
+Dataset is from: https://www.kaggle.com/kemical/kickstarter-projects
